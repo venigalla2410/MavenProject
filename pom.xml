@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://appserverone.com:8081/repository/Test1_Release/</url>
+            <url>http://192.168.115.128:8081/repository/Test1_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://appserverone.com:8081/repository/Test1_Snap/</url>
+            <url>http://192.168.115.128:8081/repository/Test1_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
